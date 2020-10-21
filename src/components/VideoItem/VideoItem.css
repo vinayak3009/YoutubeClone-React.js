@@ -1,0 +1,22 @@
+.videoItem{
+    background-color: rgb(190, 190, 190) !important;
+    align-items: center;
+    display: flex;
+    cursor: pointer !important;
+    background-color: rgb(190, 190, 190);
+}
+
+.itemImage{
+    padding: 10px;
+    width: 50%;
+    cursor: pointer !important;
+    background-color: rgb(190, 190, 190);
+
+}
+
+.itemText{
+padding: 10px;
+margin: 10px;
+cursor: pointer !important;
+background-color: rgb(190, 190, 190);
+}
