@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a YouTube Clone app made with React.js and Bootstrap, CSS. It is a very basic looking webpage but has a lot more functioning at the back end. The data and the videos are being extracted from YouTube API. Go ahead try it and searcg your favourite videos with it.
+
 ## Available Scripts
 
 In the project directory, you can run:
